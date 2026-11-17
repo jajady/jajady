@@ -15,7 +15,7 @@
 - 🎓 **Hongik University** — Design Convergence & Computer Engineering
 - 💻 **Frontend Development** — 사용자 중심의 웹 인터페이스 설계 및 구현
 - 🎨 **UX & Interaction** — 디자인과 개발을 연결하는 인터랙티브 경험
-- 🌱 **Currently Exploring** — Backend, Cloud Infrastructure, System Architecture
+- 🌱 **Currently Exploring** — Frontend, Backend, Cloud Infrastructure, System Architecture
 
 <br>
 
