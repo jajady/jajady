@@ -54,7 +54,7 @@
 
 `React` `TypeScript` `FullCalendar` `Google Maps API`
 
-### 02. Jump Kiwing
+### 02. Jump Kiwing, 최애를 찾아서
 **Interactive HTML5 Canvas Game**
 
 웹과 모바일 환경에서 즐길 수 있는 인터랙티브 러닝 게임입니다.
